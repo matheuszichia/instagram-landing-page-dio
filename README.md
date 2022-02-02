@@ -1,2 +1,2 @@
 # projetos-dio
-Projetos realizados na plataforma Digital Innovation One (DIO)
+Landing page criada através da aula/projeto do bootcam de Web Dev.
